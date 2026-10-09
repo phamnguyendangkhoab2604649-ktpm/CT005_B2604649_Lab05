@@ -1,5 +1,5 @@
 ## THÔNG TIN BÀI THỰC HÀNH LAB 07
-- Họ tên Sinh viên: Phạm Nguyễn Đăng
+- Họ tên Sinh viên: Phạm Nguyễn Đăng Khoa
 - MSSV: B2604649
 - Lớp: DI2696A1
 ### DANH SÁCH ĐƯỜNG LINK SẢN PHẨM LAB 07:
